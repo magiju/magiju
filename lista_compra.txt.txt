@@ -3,3 +3,4 @@ lista de la compra
 -manzanas
 -peras
 -kiwis
+-sopa
