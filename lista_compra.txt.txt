@@ -1,6 +1,7 @@
 lista de la compra
 -platanos
--manzanas
 -peras
 -kiwis
--sopa
+-Sandia
+-Pollo
+-lechuga
