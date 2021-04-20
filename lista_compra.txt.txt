@@ -2,3 +2,4 @@ lista de la compra
 -platanos
 -manzanas
 -peras
+-kiwis
