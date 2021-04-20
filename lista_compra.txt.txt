@@ -6,3 +6,4 @@ lista de la compra
 -melón
 -jamón
 -queso
+-fresas
