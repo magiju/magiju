@@ -4,3 +4,5 @@ lista de la compra
 -Sandia
 -Pollo
 -melón
+-jamón
+-queso
