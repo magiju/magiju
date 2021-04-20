@@ -1,9 +1,7 @@
 lista de la compra
 -platanos
--kiwis
 -Sandia
 -Pollo
 -melón
 -jamón
 -queso
--fresas
